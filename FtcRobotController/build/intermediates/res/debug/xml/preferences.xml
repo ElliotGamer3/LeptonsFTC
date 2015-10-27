@@ -69,4 +69,4 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         android:targetClass="com.qualcomm.ftccommon.configuration.AutoConfigureActivity" />
     </PreferenceScreen>
   </PreferenceCategory>
-</PreferenceScreen><!-- From: file:/C:/Users/Rockwood%20Robotics%202/Desktop/2015%20Files/Programs/ftc_app-master/ftc_app-master/FtcRobotController/src/main/res/xml/preferences.xml -->
+</PreferenceScreen><!-- From: file:/C:/Users/Rockwood%20Robotics%202/Desktop/2015%20Files/Programs/LeptonsFTC/FtcRobotController/src/main/res/xml/preferences.xml -->
