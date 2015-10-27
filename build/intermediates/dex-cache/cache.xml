@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-71d81af9a04221b6b9a973407b169feb3b6f684c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-2a88ed2855760dc7765cdfb77a4a27c972659cbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a5fadb0dbb392372142275356999752343e21148">
+        <dex dex="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-4c2623aca14405afd9ba459218a99f12b8afd0cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f71d91f91744fdbed74e2bf39f91268d1580cefc">
+        <dex dex="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-c05a9a4b6808f44acf7d30e02d96c967992a02bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16efc4540aa5ac1cce5fde6c57edc09f5bc12e92">
+        <dex dex="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-c5c586e52d758ed680f860ff5d7484ea47d2eb7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="37738feb62fd1abd7395899609373e990483750f">
+        <dex dex="C:\Users\Rockwood Robotics 2\Desktop\2015 Files\Programs\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-313f170d629567211385e9de2982f5b4387f0dfb.jar" />
+    </item>
+
+</items>
